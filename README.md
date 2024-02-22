@@ -1,3 +1,12 @@
+<div style="display: flex;">
+    <img src="https://i.imgur.com/hp4b2CE.jpeg" alt="Image Description" width="200" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/eMUFFSk.jpeg" alt="Image Description" width="200" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/XPs7KyY.jpeg" alt="Image Description" width="200" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/nPH2CrI.jpeg" alt="Image Description" width="200" style="margin-right: 10px;">
+    <img src="https://i.imgur.com/0RnAfpd.jpeg" alt="Image Description" width="200">
+</div>
+
+
 ## Overview
 
 This application is a simple e-commerce platform built with SwiftUI. It consists of four main screens:
